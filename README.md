@@ -11,13 +11,11 @@ Experienced in developing software for mobile robots, UAVs, and robotic manipula
 - OMPL
 
 ### Areas of Interest
+- Parallel/Distributed Computing
+- Performance Optimisation
 - Motion Planning
 - Robot Manipulation
-- Autonomous Navigation
-- Parallel Computing
-- Performance Optimisation
 - Applied Mathematics and Modelling
-- Optimal Control
 
 ### Tech stack
 
